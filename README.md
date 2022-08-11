@@ -10,4 +10,4 @@ first round: from easy -> medium -> hard
 
 second round: hard -> medium, easy
 
-![image](https://github.com/isyufeng/LeetCode/blob/master/Feb.png)
+
